@@ -27,3 +27,12 @@ contributions, often because we probably won't get to them right now. If you
 decide to start on an issue, leave a comment so that other people know that
 you're working on it. If you want to help out, but not alone, use the issue
 comment thread to coordinate.
+
+
+
+ジアゼパムによる有害事象としては、前向性健忘（特に高用量で）と鎮静、同時に、激昂やてんかん患者における発作の悪化といった奇異反応が挙げられる。
+またベンゾジアゼピン系はうつ病の原因となったり悪化させることがある。
+ジアゼパムも含め、ベンゾジアゼピンの長期的影響として耐性の形成[10]、ベンゾジアゼピン依存症、減薬時のベンゾジアゼピン離脱症状がある。
+ベンゾジアゼピンの中止後の認知的な損失症状は、少なくとも6か月間持続する可能性があり、いくつかの損失症状の回復には、6か月以上必要な可能性があることが示されている[11][12]。
+ジアゼパムには身体的依存の可能性があり、長期間にわたって使用すれば身体的依存による重篤な問題の原因となる。
+処方の慣行を改善するために各国政府に対して、緊急な行動が推奨されている[11][12]。
